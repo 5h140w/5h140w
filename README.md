@@ -47,19 +47,22 @@
 
 ## 📊 My Github Stats
 
-<!-- <br/>
-    <a href="https://github.com/5h140w/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=5h140w&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5h140w&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width='500px'/></a>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-<br/> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+    <table width="100%">
+        <tr>
+            <td width="60%">
+                <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h140w&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="5h140w's Github Stats" /></p>
+            </td>
+            <td width="40%">
+                <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5h140w&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="5h140w's Github Stats" /></p>
+            </td>
+        </tr>
+    </table>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
 ## ❤ Connect with me:
 
 <p align="left">
