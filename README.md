@@ -5,9 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
+I'm a Full Stack developer, writer and public speaker. I'm the co-founder of Youth Trading, a crypto trading team based on Tunis.
+I'm the creator of **FastOCR**, an OCR application that helps people analyze and extract information from a document (a PDF or an image)
+Also, I'm the creator of **ktebna**, a book resource application that features books for kids and teens with main characters of colors.
+
 - 💻 I'm The co-founder of **Youth Trading**
 
-- 🔭 I’m currently working on **Youth Trading**
+- 🔭 I’m currently working at **DREAMIT**
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
