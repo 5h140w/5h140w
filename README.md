@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Full Stack developer, writer and public speaker. I'm the co-founder of Young Traders, a crypto trading team based in Tunis.
+I'm a Full Stack developer, writer and blogger. I'm the founder of Young Traders, a crypto trading team based in Tunis.
 I'm the creator of **FastOCR**, an OCR application that helps people analyze and extract information from a document (a PDF or an image)
 Also, I'm the creator of **ktebna**, a book resource application that features books for kids and teens with main characters of colors.
 
-- 💻 I'm The co-founder of **Young Traders**
+- 💻 I'm The founder of **Young Traders**
 
-- 🔭 I’m currently working at **DREAMIT**
+- 🔭 I’m currently working at **CodingDojo Africa**
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
@@ -19,7 +19,7 @@ Also, I'm the creator of **ktebna**, a book resource application that features b
 
 - 📫 How to reach me **5h140w23@gmail.com**
 
-- ⚡ Fun fact **I'm a league of legends player**
+- ⚡ Fun fact **I'm a league of legends player (Support Main)**
 
 ## 🚀 Languages and Tools:
 
