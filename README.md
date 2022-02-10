@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Full Stack developer, writer and blogger. I'm the founder of Young Traders, a crypto trading team based in Tunis.
+I'm a Full Stack developer, writer and blogger.
 I'm the creator of **FastOCR**, an OCR application that helps people analyze and extract information from a document (a PDF or an image)
 Also, I'm the creator of **ktebna**, a book resource application that features books for kids and teens with main characters of colors.
 
